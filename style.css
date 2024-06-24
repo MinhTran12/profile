@@ -5,6 +5,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
 .container {
     width: 60%;
     margin: auto;
@@ -43,7 +47,7 @@ header nav {
 }
 section#main {
     padding: 20px;
-    background: #fff;
+    background: #B7B3B3;
     margin-top: 20px;
     border-radius: 5px;
 }
