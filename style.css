@@ -76,3 +76,20 @@ section#main {
   .tab-content.active {
     display: block;
   }
+
+  a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Inherits text color from the parent */
+}
+
+a:visited {
+    color: inherit; /* Keeps the same color after visiting */
+}
+
+a:hover {
+    text-decoration: underline; /* Optional: Adds underline on hover */
+}
+
+a:active {
+    color: inherit; /* Prevents color change when clicked */
+}
