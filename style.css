@@ -1,95 +1,15 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+#menu{
+    margin-top: 20%;
+    display: inline-block;
+    text-align: right;
 }
-div {
+#layout{
+    margin: 0 5%;
+}
+p{
     text-align: justify;
-    text-justify: inter-word;
 }
-.container {
-    width: 60%;
-    margin: auto;
-    overflow: hidden;
-}
-header {
-    background: #333;
-    color: #fff;
-    padding-top: 30px;
-    min-height: 70px;
-    border-bottom: #77aaff 3px solid;
-}
-header a {
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 16px;
-}
-header ul {
-    padding: 0;
-    list-style: none;
-}
-header li {
-    display: inline;
-    padding: 0 20px 0 20px;
-}
-header #branding {
-    float: left;
-}
-header #branding h1 {
-    margin: 0;
-}
-header nav {
-    float: right;
-    margin-top: 10px;
-}
-section#main {
-    padding: 20px;
-    background: #B7B3B3;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-.profile-img {
-    float: left;
-    margin-right: 20px;
-    border-radius: 50%;
-}
-.projects {
-    margin-top: 40px;
-}
-.project {
-    margin-bottom: 20px;
-}
-.project h3 {
-    margin: 0;
-    color: #333;
-}
-.project p {
-    margin: 5px 0 0 0;
-}
-
-.tab-content {
-    display: none;
-  }
-  .tab-content.active {
-    display: block;
-  }
-
-  a {
-    text-decoration: none; /* Removes underline */
-    color: inherit; /* Inherits text color from the parent */
-}
-
-a:visited {
-    color: inherit; /* Keeps the same color after visiting */
-}
-
-a:hover {
-    text-decoration: underline; /* Optional: Adds underline on hover */
-}
-
-a:active {
-    color: inherit; /* Prevents color change when clicked */
+.project-image{
+    display: flex;
+    justify-content: center;
 }
