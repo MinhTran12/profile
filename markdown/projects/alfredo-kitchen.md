@@ -2,7 +2,7 @@
 
 Alfredo's Kitchen is a serious game with the goal of teaching the players food safety training, especially for those who want to work in a restaurant setting. The game demo currently consists of a single level teaching the players about food storage in the kitchen.
 
-<img src="images\alfredo-kitchen\intro-screen.png">
+<img src="images/alfredo-kitchen/intro-screen.png">
 
 ## Rearch and Design
 
@@ -13,11 +13,11 @@ The game's content is based on Hazard analysis and critical control points (HACC
 At the start of the design process, the team discussed potential gameplay mechanics and features we found interesting and fun. When prototyping our game physically using paper, we opted for a top-down first-person view of the kitchen, in which the player can interact with each individual object. Though later as we began developing the low-fidelity prototype, we transitioned to a third-person view where the player controls their avatar to move around the kitchen. An NPC named Alfredo was also created to be the head chef of the game's titular kitchen, and would act as the mentor for our player.
 
 <div class="double-img">
-    <img src="images\alfredo-kitchen\paper-prototype.jpg">
-    <img src="images\alfredo-kitchen\lowfi-ui.png">
+    <img src="images/alfredo-kitchen/paper-prototype.jpg">
+    <img src="images/alfredo-kitchen/lowfi-ui.png">
 </div>
 
-<img src="images\alfredo-kitchen\lowfi-prototype.png">
+<img src="images/alfredo-kitchen/lowfi-prototype.png">
 
 ## Implementation
 
@@ -26,8 +26,8 @@ The high-fidelity demo was implemented using the Unity game engine, with both a 
 The core gameplay loop revolves around the player picking up food ingredients and placing in them in the correct locations within the kitchen. Identifying correctly the food type, the storage temperature, and the storage area is key; upon a succesful or failed storage, the player will gain and lose points accordingly. Also, there is a tutorial mode where Chef Alfredo will guide the player, giving compliments if they complete tasks successfully, and lightly scolds them if they make a mistake. Then there is the challenge mode where the player try to complete as many storage tasks as possible to get a high score within a limited time.
 
 <div class="double-img">
-    <img src="images\alfredo-kitchen\gameplay-1.png">
-    <img src="images\alfredo-kitchen\gameplay-2.png">
+    <img src="images/alfredo-kitchen/gameplay-1.png">
+    <img src="images/alfredo-kitchen/gameplay-2.png">
 </div>
 
 ## Evaluations

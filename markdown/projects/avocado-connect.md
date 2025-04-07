@@ -7,7 +7,7 @@ Have you ever wondered about avocados? More specifically, do you find yourself w
 The team got their avocado data from the Hass Avocado Board (HAB). The complete raw data we had were between 2021 and 2023, containing data points such as avocado types, price points, units sold in bulks and bags, cities/states, and more.
 Each team member spent some time to analyze the data while creating some simple graphs (I used Python). At that point, we figured the data aspect of the avocados we wanted to focus on conveying, which was the price and and the trade quantity of avocados over time in big cities.
 
-![python-avocado-plots.png](images\avocado-connect\python-avocado-plots.png "Avocados in Albany graphs")
+![python-avocado-plots.png](images/avocado-connect/python-avocado-plots.png "Avocados in Albany graphs")
 
 ## Design and Prototyping
 
@@ -16,11 +16,11 @@ After deciding on our core dataset, we began designing the user interfaces and t
 Some ideas were scrapped later during developement, such as having our interface behave like a storyboard as users scroll down the application, with airplanes and ships as part of the graphs to emulate the avocado trade; we opted for a dashboard design instead as we prioritized the users' speedy knowledge acquisition. Other ideas were kept, with one primary example being a map of the US with dynamic avocado icons in which their pits change color based on the price/amount of avocados at the given time.
 
 <div class="double-img">
-    <img src="images\avocado-connect\simple-sketches.png">
-    <img src="images\avocado-connect\app-diagram.png">
+    <img src="images/avocado-connect/simple-sketches.png">
+    <img src="images/avocado-connect/app-diagram.png">
 </div>
 
-<img src="images\avocado-connect\paper-wireframe.jpg">
+<img src="images/avocado-connect/paper-wireframe.jpg">
 
 ## Implementation
 
@@ -28,5 +28,5 @@ We used html/css and javascript to program Avocado Connect. Python pandas was us
 
 Minor quality-of-life adjustments were made to the final version based on the feedback from volunteering participants where they were asked to complete specific tasks when interacting with Avocado Connect.
 
-<img src="images\avocado-connect\web-app-1.png">
-<img src="images\avocado-connect\web-app-2.png">
+<img src="images/avocado-connect/web-app-1.png">
+<img src="images/avocado-connect/web-app-2.png">
