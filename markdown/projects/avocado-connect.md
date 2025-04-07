@@ -20,7 +20,7 @@ Some ideas were scrapped later during developement, such as having our interface
     <img src="images\avocado-connect\app-diagram.png">
 </div>
 
-![](images\avocado-connect\paper-wireframe.jpg)
+<img src="images\avocado-connect\paper-wireframe.jpg">
 
 ## Implementation
 
@@ -28,5 +28,5 @@ We used html/css and javascript to program Avocado Connect. Python pandas was us
 
 Minor quality-of-life adjustments were made to the final version based on the feedback from volunteering participants where they were asked to complete specific tasks when interacting with Avocado Connect.
 
-![](images\avocado-connect\web-app-1.png)
-![](images\avocado-connect\web-app-2.png)
+<img src="images\avocado-connect\web-app-1.png">
+<img src="images\avocado-connect\web-app-2.png">

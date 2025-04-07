@@ -8,7 +8,7 @@ The project followed an user-centered design approach using the Triple Design Di
 
 First we discovered and defined the scope of our product: what is something that the people want and how we can achieve it. Concept mapping was used to come up with potential ideas between the team members before we synthesized them and rated them based on feasibility, novelty, and "enchantibility". Choosing the bookmark as our core object, we then created various items such as user personas and story boards to explore the user needs while further narrowing down the main functionalities.
 
-![design-ideas-eval.jpg](images\book-buddy\design-ideas-eval.jpg "Evaluation of Design Ideas")
+<img src="images\book-buddy\design-ideas-eval.jpg">
 
 ## Prototyping and Development
 
@@ -23,7 +23,7 @@ With the design semi-refined, we proceeded with prototyping. The team began with
     <img src="images\book-buddy\app-lowfi-1.jpg">
 </div>
 
-![bookmark-lowfi-1.jpg](images\book-buddy\bookmark-lowfi-1.jpg "Book Buddy final lowfi")
+<img src="images\book-buddy\bookmark-lowfi-1.jpg">
 
 For the high-fidelity prototype, we put together various eletronic components and 3D printed parts. In addition, we programmed the behaviour of the bookmark as well as the companion app. Given the feedback from the volunteers on the lowfi prototype and various compromises made during the construction, the final result looked visually different yet still retained the core functionalities.
 

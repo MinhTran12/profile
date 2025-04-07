@@ -2,7 +2,7 @@
 
 Alfredo's Kitchen is a serious game with the goal of teaching the players food safety training, especially for those who want to work in a restaurant setting. The game demo currently consists of a single level teaching the players about food storage in the kitchen.
 
-![](images\alfredo-kitchen\intro-screen.png)
+<img src="images\alfredo-kitchen\intro-screen.png">
 
 ## Rearch and Design
 
@@ -17,7 +17,7 @@ At the start of the design process, the team discussed potential gameplay mechan
     <img src="images\alfredo-kitchen\lowfi-ui.png">
 </div>
 
-![](images\alfredo-kitchen\lowfi-prototype.png)
+<img src="images\alfredo-kitchen\lowfi-prototype.png">
 
 ## Implementation
 
