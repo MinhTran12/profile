@@ -11,6 +11,8 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="github-markdown-light.css" />
+    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
   </head>
   <body>
     <div id="layout">
@@ -45,13 +47,10 @@
       <div id="main" class="pure-u-4-5">
         <div class="header">
           <h1>Hi there.</h1>
-          <p>I'm happy to see you here.</p>
-          <p>
-            The site is currently under construction, so there might be some
-            quirks here and there.
-          </p>
         </div>
-        <div class="content"></div>
+        <div class="content">
+          <md-block class="markdown-body" src="markdown/index.md"></md-block>
+        </div>
       </div>
     </div>
   </body>
