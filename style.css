@@ -42,7 +42,7 @@ body {
 
   #main {
     margin-left: 20%;
-    padding: 2%;
+    padding: 5%;
     box-sizing: border-box;
     border-left: 2px solid black;
     min-height: 100vh;
@@ -122,17 +122,7 @@ body {
 }
 
 .profile-img{
-    width: 180px;
-    height: auto;
-    object-fit: contain;
-}
-.study-matrix {
-    width: 80%;
-    height: auto;
-}
-
-.main-text {
-    width: 80%;
+    float: inline-start; width: 12rem; padding-right: 2%;
 }
 
 a{
