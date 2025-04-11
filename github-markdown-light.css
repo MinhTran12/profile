@@ -106,12 +106,40 @@
   max-width: 100%;
   box-sizing: content-box;
 }
+
+.markdown-body .single-img {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.markdown-body .single-img img {
+  border-style: none;
+  max-width: 50%;
+  box-sizing: content-box;
+}
+
+.markdown-body .double-img {
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: center;
+}
+
 .markdown-body .double-img img {
   border-style: none;
-  max-width: 45%;
+  max-width: 50%;
   box-sizing: content-box;
   padding-inline: 1rem;
 }
+
+.markdown-body .triple-img {
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: center;
+}
+
 .markdown-body .triple-img img {
   border-style: none;
   max-width: 30%;

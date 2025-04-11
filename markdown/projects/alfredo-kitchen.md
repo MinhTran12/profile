@@ -17,7 +17,9 @@ At the start of the design process, the team discussed potential gameplay mechan
     <img src="images/alfredo-kitchen/lowfi-ui.png">
 </div>
 
-<img src="images/alfredo-kitchen/lowfi-prototype.png">
+<div class="single-img">
+    <img src="images/alfredo-kitchen/lowfi-prototype.png">
+</div>
 
 ## Implementation
 

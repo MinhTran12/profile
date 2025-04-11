@@ -7,7 +7,9 @@ Have you ever wondered about avocados? More specifically, do you find yourself w
 The team got their avocado data from the Hass Avocado Board (HAB). The complete raw data we had were between 2021 and 2023, containing data points such as avocado types, price points, units sold in bulks and bags, cities/states, and more.
 Each team member spent some time to analyze the data while creating some simple graphs (I used Python). At that point, we figured the data aspect of the avocados we wanted to focus on conveying, which was the price and and the trade quantity of avocados over time in big cities.
 
-![python-avocado-plots.png](images/avocado-connect/python-avocado-plots.png "Avocados in Albany graphs")
+<div class="single-img">
+    <img src="images/avocado-connect/python-avocado-plots.png">
+</div>
 
 ## Design and Prototyping
 
@@ -20,7 +22,9 @@ Some ideas were scrapped later during developement, such as having our interface
     <img src="images/avocado-connect/app-diagram.png">
 </div>
 
-<img src="images/avocado-connect/paper-wireframe.jpg">
+<div class="single-img">
+    <img src="images/avocado-connect/paper-wireframe.jpg">
+</div>
 
 ## Implementation
 
@@ -28,5 +32,9 @@ We used html/css and javascript to program Avocado Connect. Python pandas was us
 
 Minor quality-of-life adjustments were made to the final version based on the feedback from volunteering participants where they were asked to complete specific tasks when interacting with Avocado Connect.
 
-<img src="images/avocado-connect/web-app-1.png">
-<img src="images/avocado-connect/web-app-2.png">
+<div class="single-img">
+    <img src="images/avocado-connect/web-app-1.png">
+</div>
+<div class="single-img">
+    <img src="images/avocado-connect/web-app-2.png">
+</div>
