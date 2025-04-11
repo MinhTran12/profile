@@ -13,6 +13,7 @@ body {
 
 #layout {
     display: flex;
+    flex-direction: row;
 }
 
 #menu {
@@ -45,12 +46,13 @@ body {
     box-sizing: border-box;
     border-left: 2px solid black;
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 568px) {
     #menu {
         display: none; /* Hide menu */
-        padding-top: 4rem;
+        padding-top: 10 rem;
     }
 
     #menu-toggle {
@@ -61,45 +63,61 @@ body {
         width: 40%;
         display: flex;
         flex-direction: column;
+        /* padding-right: 2%; */
     }
     #main {
         margin-left: 0;
         border-left: none;
     }
 
-    /* When menu is open */
     #menu.open ~ #main {
-        margin-left: 50%; /* Or whatever width you want menu to take */
-        padding: 2%;
         box-sizing: border-box;
         border-left: 2px solid black;
         min-height: 100vh;
+        margin-left: 40%;
     }
+}
+
+.content{
+    align-items: stretch;
+}
+
+.project {
+    display: flex;
+    align-items: stretch;
+    padding-bottom: 2em;
 }
 
 .project-image {
     display: flex;
     justify-content: center;
-    text-align: center;
-    padding-right: 1em;
+    align-items: center;
+    border: 2px solid black;
 }
 
 .project-image img {
     max-width: 100%;
-    height: auto;
-    object-fit: contain;
+    max-height: 100%;
+    object-fit: scale-down;
+    width: 25rem;
+}
+.project-text {
+    padding-left: 1em;
 }
 
-/* .project-text {
-    width: 50%;
-} */
+#project-menu .pure-menu-item {
+    font-weight: bold;
+}
+
+.pure-menu-heading {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
 
 @media (min-width: 568px) {
     .project-text {
         width: 50%;
-    }
-    p{
-        text-align: justify;
     }
 }
 
