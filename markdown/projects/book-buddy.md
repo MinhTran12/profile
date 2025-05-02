@@ -31,7 +31,7 @@ With the design semi-refined, we proceeded with prototyping. The team began with
     <img src="images/book-buddy/bookmark-lowfi-1.jpg">
 </div>
 
-For the high-fidelity prototype, the team put together various eletronic components and 3D printed parts. In addition, I programmed the behaviour of the bookmark as well as the companion app. Given the feedback from the volunteers on the lowfi prototype and various compromises made during the construction, the final result looked visually different yet still retained the core functionalities.
+For the high-fidelity prototype, the team put together various electronic components and 3D printed parts. In addition, I programmed the behavior of the bookmark as well as the companion app. Given the feedback from the volunteers on the low-fi prototype and various compromises made during the construction, the final result looked visually different yet still retained the core functionalities.
 
 <div class="triple-img">
     <img src="images/book-buddy/bookmark-highfi-1.jpg">
@@ -43,7 +43,7 @@ For the high-fidelity prototype, the team put together various eletronic compone
 
 Two main user studies were done at different stages:
 
-- We first conducted a vignette study using the lowfi prototype along with crafted scenarios, user personas, and storyboards mentioned previously to evaluate the prototype's effectiveness as well as gather users' early feedback.
+- We first conducted a vignette study using the low-fi prototype along with crafted scenarios, user personas, and storyboards mentioned previously to evaluate the prototype's effectiveness as well as gather users' early feedback.
 - For the second study, participants were observed interacting with Book Buddy, and then were interviewed to understand their thought processes. We found avid readers appreciated the social aspect and the enchantment of bookmark, while new readers saw the goal tracking feature to be motivating.
 
 ## Reflection
