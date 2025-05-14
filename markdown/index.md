@@ -12,7 +12,7 @@ and you can visit **[About Me](about.html)** and **<a
 #### Want to connect?
 
 <div>
-    <a href="mailto:mn_tran1216@gmail.com" target="_blank" style="text-decoration:none;">
+    <a href="mailto:mn.tran1216@gmail.com" target="_blank" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/mn-tran" target="_blank" style="text-decoration:none;">
