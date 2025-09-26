@@ -1,11 +1,13 @@
 Happy to see you here.
 
-I'm a UX specialist and programmer. **[Projects](projects.html)** contain my recent works, \
-and you can visit **[About Me](about.html)** and **<a
+I'm a programmer and UX developer. \
+**[Projects](projects.html)** contain my recent works,
+and you can visit \
+**[About Me](about.html)** and **<a
                 href="documents/Minh_Tran_Resume.pdf"
                 target="_blank"
                 >Resume</a
-              >** for more info.
+              >** for more information.
 
 <br>
 
