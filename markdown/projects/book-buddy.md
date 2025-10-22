@@ -34,9 +34,9 @@ With the design semi-refined, we proceeded with prototyping. The team began with
 For the high-fidelity prototype, the team put together various electronic components and 3D printed parts. In addition, I programmed the behavior of the bookmark as well as the companion app. Given the feedback from the volunteers on the low-fi prototype and various compromises made during the construction, the final result looked visually different yet still retained the core functionalities.
 
 <div class="triple-img">
-    <img src="images/book-buddy/bookmark-highfi-1.jpg">
-    <img src="images/book-buddy/bookmark-highfi-2.jpg">
-    <img src="images/book-buddy/web-app-1.png">
+    <img src="images/book-buddy/bookmark-highfi-1.jpg" alt="bookmark high-fidelity 1">
+    <img src="images/book-buddy/bookmark-highfi-2.jpg" alt="bookmark high-fidelity 2">
+    <img src="images/book-buddy/web-app-1.png" alt="web app screenshot" style="width:20%; height:auto;">
 </div>
 
 ## Validation
