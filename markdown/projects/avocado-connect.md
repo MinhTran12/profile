@@ -7,7 +7,8 @@ Have you ever wondered about avocados? More specifically, do you find yourself w
 ## Data Exploration
 
 The team got their avocado data from the Hass Avocado Board (HAB). The complete raw data we had were between 2021 and 2023, containing data points such as avocado types, price points, units sold in bulks and bags, cities/states, and more.
-Each team member spent some time to analyze the data while creating some simple graphs (I used Python). At that point, we figured the data aspect of the avocados we wanted to focus on conveying, which was the price and and the trade quantity of avocados over time in big cities.
+
+Each team member spent some time to analyze the data while creating some simple graphs. At that point, we figured the data aspect of the avocados we wanted to focus on conveying, which was the price and and the trade quantity of avocados over time in big cities.
 
 <div class="single-img">
     <img src="images/avocado-connect/python-avocado-plots.png">
@@ -15,11 +16,11 @@ Each team member spent some time to analyze the data while creating some simple 
 
 ## Design and Prototyping
 
-After deciding on our core dataset, we began designing the user interfaces and the visualization of the data. Some simple sketches were made at first, and as the team discussed among ourselves, diagrams and then wireframes were developed and further refined them along the way.
+After deciding on our core dataset, we began designing the user interfaces and the visualization of the data. Some simple sketches were made at first, and as the team discussed among ourselves, diagrams and wireframes were developed and further refined along the way.
 
-Some ideas were scrapped later during development, such as having our interface behave like a storyboard as users scroll down the application, with airplanes and ships as part of the graphs to emulate the avocado trade. In the end we opted for a dashboard design instead as we prioritized the users' speedy knowledge acquisition.
+Some ideas were scrapped later during development, such as having our interface behave like a storyboard as users scroll down the application, with airplanes and ships as part of the graphs to emulate the avocado trade. In the end we opted for a dashboard design instead as we **prioritized the users' speedy knowledge acquisition**.
 
-Other ideas were kept, with one primary example being a map of the US with dynamic avocado icons in which their pits change color based on the price/amount of avocados at the given time.
+Other ideas were kept, with one primary example being **a map of the US with dynamic avocado icons** in which their pits change color based on the price/amount of avocados at the given time. The rest of the features were straightforwards: based on the dataset, we wanted the users to be able to **differentiate between organic and non-organic avocados**, and that they can **compare the stats of specific cities at specific times** if they so choose.
 
 <div class="double-img">
     <img src="images/avocado-connect/simple-sketches.png">
@@ -38,6 +39,9 @@ Minor quality-of-life adjustments were made to the final version based on the fe
 
 <div class="single-img">
     <img src="images/avocado-connect/web-app-1.png">
+</div>
+<div class="single-img">
+    <img src="images/avocado-connect/web-app-3.png">
 </div>
 <div class="single-img">
     <img src="images/avocado-connect/web-app-2.png">

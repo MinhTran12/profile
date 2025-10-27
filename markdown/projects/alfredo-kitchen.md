@@ -27,7 +27,14 @@ At the start of the design process, the team discussed potential gameplay mechan
 
 The high-fidelity demo was implemented using the Unity game engine, with both a gamepad and keyboard-based control scheme. The input method serves as a simple interface with the game environment, where the player controls an avatar from a top-down third-person view to navigate and interact with the surroundings. The models are made in Blender, and the artworks along with the UI followed a simple yet cute pixelated aesthetic.
 
-The core gameplay loop revolves around the player picking up food ingredients and placing in them in the correct locations within the kitchen. Identifying correctly the food type, the storage temperature, and the storage area is key; upon a successful or failed storage, the player will gain and lose points accordingly. Also, there is a tutorial mode where Chef Alfredo will guide the player, giving compliments if they complete tasks successfully, and lightly scolds them if they make a mistake. Then there is the challenge mode where the player try to complete as many storage tasks as possible to get a high score within a limited time.
+The core gameplay loop revolves around the player picking up food ingredients and placing in them in the correct locations within the kitchen:
+
+- Identifying correctly the food type, the storage temperature, and the storage area is key
+- Upon a successful or failed storage, the player will gain and lose points accordingly.
+
+Also, there is the **tutorial mode** where Chef Alfredo will guide the player, giving compliments if they complete tasks successfully, and lightly scolds them if they make a mistake. This is done based on **operant conditioning**: compliments to reinforce correct actions and mild reprimands to signify adjustments.
+
+Then there is the **challenge mode** where the player try to complete as many storage tasks as possible to get a high score within a limited time. We reason that by playing for the high score, the players will tap into **intrinsic motivation** and **goal-oriented behavior**, and thus reinforcing the gained lessons.
 
 <div class="double-img">
     <img src="images/alfredo-kitchen/gameplay-1.png">
